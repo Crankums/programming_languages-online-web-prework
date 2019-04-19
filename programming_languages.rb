@@ -37,7 +37,7 @@ end
 #     :javascript => {
 #       :type => "interpreted"
 #     }
-#  
+#
 #   }
 # }
 
